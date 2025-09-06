@@ -23,7 +23,7 @@ With **high-definition output** in formats like MP4, AVI, GIF, and MOV, iTop Scr
 Designed for **both beginners and advanced users**, the software offers an intuitive interface alongside professional-grade features. Cross-platform compatibility allows seamless recording on **Windows, Mac, and Android devices**.  
 
 <p align="center">
-  <img src="https://images.wondershare.com/filmora/article-trans-image/1312/itop-screen-recorder-4.jpg" alt="iTop Screen Recorder Screenshot" width="720"/>
+  <img src="https://images.wondershare.com/filmora/article-trans-image/1312/itop-screen-recorder-4.jpg" alt="iTop Screen Recorder Screenshot" width="480"/>
 </p>
 
 ---
